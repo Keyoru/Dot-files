@@ -1,0 +1,34 @@
+# hardhacker colorscheme for alacritty
+# by xin wu, https://github.com/hardhackerlabs/theme-alacritty
+colors:
+  # Default colors
+  primary:
+    background: '#0e0d33'
+    foreground: '#e2b5f8'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '#FF9683'
+    cursor: '#FF9683'
+
+  # Normal colors
+  normal:
+    black:   '0x282433'
+    red:     '0xe965a5'
+    green:   '0xb1f2a7'
+    yellow:  '0xebde76'
+    blue:    '0xb1baf4'
+    magenta: '0xe192ef'
+    cyan:    '0xb3f4f3'
+    white:   '0xeee9fc'
+
+  # Bright colors
+  bright:
+    black:   '0x3f3951'
+    red:     '0xe965a5'
+    green:   '0xb1f2a7'
+    yellow:  '0xebde76'
+    blue:    '0xb1baf4'
+    magenta: '0xe192ef'
+    cyan:    '0xb3f4f3'
+    white:   '0xeee9fc'
